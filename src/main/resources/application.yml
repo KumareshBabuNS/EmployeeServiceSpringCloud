@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: employee-service
+
+cloud:
+  services:
+    registrationMethod: route
+
+security:
+  basic:
+    enabled: false
