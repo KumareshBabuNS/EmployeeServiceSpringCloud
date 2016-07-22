@@ -48,5 +48,9 @@ applications:
 $ cf push
 ```
 
+Once deployed it will automatically bind to the Service Registry instance and you can see that as shown below.
+
+![alt tag](https://dl.dropboxusercontent.com/u/15829935/platform-demos/images/piv-springcloud-registery-2.png)
+
 <hr />
 Pas Apicella [papicella at pivotal.io] is a Senior Platform Architect at Pivotal
