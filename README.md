@@ -5,6 +5,12 @@ pattern, one of the key tenets of a microservice-based architecture. Trying to h
 adopt some form of access convention can be difficult and prove to be brittle in production. Instead, your applications can use 
 the Service Registry to dynamically discover and call registered services
 
+This code is for the blog entry below
+
+```
+http://theblasfrompas.blogspot.com.au/2016/07/creating-service-within-intellij-idea.html
+```
+
 ![alt tag](https://dl.dropboxusercontent.com/u/15829935/platform-demos/images/piv-springcloud-registery.png)
 
 <h2> Deploy to PCF </h2>
